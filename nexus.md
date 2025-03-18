@@ -70,8 +70,9 @@ Repository
 Blobstore
 - Tổng quan: https://help.sonatype.com/en/configuring-blob-stores.html
 - Chi tiết trên từng Repo:
-        - Triển khai DC1 proxy public repository <Mindset phân blobstore + đề xuất>
-        - Triển khai DC1 private repository <đề xuất>
+    - Triển khai DC1 proxy public repository <Mindset phân blobstore + đề xuất>
+    - Triển khai DC1 private repository <đề xuất>
+  
 License
 -  https://help.sonatype.com/en/installing-and-updating-licenses.html
 
@@ -102,8 +103,10 @@ Các tính năng hỗ trợ
 Phân quyền sử dụng hệ thống
 
 - Access control:  https://help.sonatype.com/en/access-control.html
+  <Đề xuất>
 
 - User Authentication: https://help.sonatype.com/en/user-authentication.html
+  <Đề xuất>
 
 ##############
 
