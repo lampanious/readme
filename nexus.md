@@ -22,8 +22,8 @@ Cấu hình cơ bản:
 - Giải thích cấu trúc triển khai ứng dụng:
     - Tổng quan:  https://help.sonatype.com/en/sonatype-nexus-repository-reference-architectures.html 
     - Chi tiết phương án triển khai: https://help.sonatype.com/en/nexus-repository-reference-architecture-3.html
-        - Triển khai DC1 proxy public repository <Thống tin BM01>
-        - Triển khai DC1 private repository <Thống tin BM01>
+        - Triển khai DC1 proxy public repository <BM01>
+        - Triển khai DC1 private repository <BM01>
 - Hướng dẫn cấu hình cùng database (postgresql):
     - Guide install postgre: https://help.sonatype.com/en/install-nexus-repository-with-postgresql.html
     - Limitation connection: https://help.sonatype.com/en/postgresql-max-connections.html 
@@ -44,6 +44,7 @@ Tối ưu hệ thống:
     - Planning: https://help.sonatype.com/en/storage-planning.html
 
 Nâng cấp hệ thống: 
+- Thêm cấu hình plugin: https://help.sonatype.com/en/bundle-development.html 
 - Giải pháp nâng cấp hệ thống:
     - Path: https://help.sonatype.com/en/nexus-repository-upgrade-paths.html (3.48.0+)
     - Database: https://help.sonatype.com/en/migrating-to-a-new-database.html 
