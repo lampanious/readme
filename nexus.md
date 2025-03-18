@@ -123,12 +123,12 @@ Phân quyền sử dụng hệ thống
 Q&A
 Best practice: https://help.sonatype.com/en/administration-best-practices.html
 Question: 
-1. Cài đặt = docker vs systemd, nên dùng cái nào? Tuỳ thuộc vào nhu cầu sử dụng, tuy nhiên để đảm bảo về mặt secure, nên lựa chọn cài đặt bằng docker. Tuy nhiên việc cài đặt bằng docker có issue liên quan đến việc không cài đặt được plugin custom cho hệ thống?
-2. Làm thế nào để biết version của hệ thống nexus đang dùng?
-3. Thông tin các bên liên quan khi cài đặt hệ thống?
-4. Làm thế nào để biết các loại thư viện nào được hỗ trợ với version bao nhiêu?
-5. License của version trước có thể apply cho version sau không? Đoán xem -.-
-6. Làm thế nào để biết hệ thông đang không hoạt đông?
+1. Cài đặt = docker vs systemd, nên dùng cái nào? --> Tuỳ thuộc vào nhu cầu sử dụng, tuy nhiên để đảm bảo về mặt secure, nên lựa chọn cài đặt bằng docker. Tuy nhiên việc cài đặt bằng docker có issue liên quan đến việc không cài đặt được plugin custom cho hệ thống.
+2. Làm thế nào để biết version của hệ thống nexus đang dùng?  --> Hỏi đầu gối ý
+3. Thông tin các bên liên quan khi cài đặt hệ thống?  --> Cầu ông bà độ
+4. Làm thế nào để biết các loại thư viện nào được hỗ trợ với version bao nhiêu?  --> đọc tài liệu?
+5. License của version trước có thể apply cho version sau không?  --> Đoán xem -.-
+6. Làm thế nào để biết hệ thông đang không hoạt đông?  --> Đừng nhìn nó nữa và cầu trời đó chỉ là giâc mơ thôi =.=
 
 ##############
 
