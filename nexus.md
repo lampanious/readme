@@ -122,6 +122,9 @@ Question:
 ##############
 
 Thông tin tham khảo
+
 Vất hết đống link bên trên vào =))))
+- Open Service Gateway Initivative: https://www.baeldung.com/osgi
+- Karaf: https://karaf.apache.org/manual/latest/#_post_installation_steps
 ##############
 
