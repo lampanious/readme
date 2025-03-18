@@ -119,6 +119,7 @@ Question:
 4. Làm thế nào để biết các loại thư viện nào được hỗ trợ với version bao nhiêu?
 5. License của version trước có thể apply cho version sau không? Đoán xem -.-
 6. Làm thế nào để biết hệ thông đang không hoạt đông?
+
 ##############
 
 Thông tin tham khảo
@@ -126,5 +127,6 @@ Thông tin tham khảo
 Vất hết đống link bên trên vào =))))
 - Open Service Gateway Initivative: https://www.baeldung.com/osgi
 - Karaf: https://karaf.apache.org/manual/latest/#_post_installation_steps
+
 ##############
 
